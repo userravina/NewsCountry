@@ -23,3 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 <video src = "" height="1150px" width="351px">
     </video>
 </p>
+
+
+https://github.com/userravina/NewsCountry/assets/120082785/b6b9402d-9d48-486c-b1d5-f248cee752d9
+
